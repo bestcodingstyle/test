@@ -6,5 +6,7 @@ int main() {
     printf("This file is named main.c.\n");
 
     printf("This is a comment.\n");
+
+    // This is a single-line comment
     return 0;
 }
